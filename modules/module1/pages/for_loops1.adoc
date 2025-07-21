@@ -1,0 +1,5 @@
+= For loops in Python
+
+++++
+include::example$/for_loops1_pre.html[]
+++++

@@ -1,0 +1,3 @@
+.Python programming
+* xref:module1:for_loops1.adoc[For Loops]
+* xref:module1:while_loops1.adoc[While Loops]

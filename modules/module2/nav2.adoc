@@ -1,0 +1,3 @@
+.JavaScript programming
+* xref:module2:for_loops.adoc[For Loops]
+* xref:module2:while_loops.adoc[While Loops]
