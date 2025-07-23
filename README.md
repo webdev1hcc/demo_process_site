@@ -78,5 +78,4 @@ Open file:///path/to/demo_process_site/build/site/index.html in a browser to vie
 ./build/site/demo-process-site/index.html saved
 ./build/site/demo-process-site/module2/for_loops.html saved
 build.txt
-Displaying build.txt.
 ````
